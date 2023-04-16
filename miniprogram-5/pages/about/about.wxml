@@ -1,0 +1,9 @@
+<!--pages/about/about.wxml-->
+<view class="box">  
+  <view>
+    可用余额
+  </view>
+  <view style="color: rgb(228, 6, 6);">
+    0.00
+  </view>
+</view>
