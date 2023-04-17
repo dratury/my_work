@@ -1,0 +1,32 @@
+/**index.wxss**/
+.swiper-container{
+  width: 100%;
+  height: 400rpx;
+  margin-bottom: 30rpx;
+}
+.swiper-container switch{
+  width: 100%;
+  height: 100%;
+}
+.swiper-container image{
+  width: 100%;
+  height: 400rpx;
+}
+.content{
+  width: 100%;
+  height: 428rpx;
+  display: flex;
+  flex-wrap: wrap;
+}
+.content view{
+  width: 33%;
+  height: 142rpx;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content image{
+  width: 50%;
+  height: 80%;
+}
