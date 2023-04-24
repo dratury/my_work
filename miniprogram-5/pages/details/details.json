@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "详情页",
-  "usingComponents": {
-    "van-stepper": "@vant/weapp/stepper/index",
-    "van-button": "@vant/weapp/button/index"
-  }
-}
